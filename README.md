@@ -1,5 +1,6 @@
 # Learning English – Educational Desktop Application
  ![Practice Screenshot](Learning.png) 
+ 
  Learning English is a C# Windows Forms desktop application designed to help users practice and improve their English skills through interactive exercises and mini-games.
  The application includes multiple learning activities such as crossword puzzles, spelling exercises, true/false questions, and picture-based vocabulary training.
  This project was developed as an educational software project demonstrating GUI development, event-driven programming, and interactive learning design using C#.
